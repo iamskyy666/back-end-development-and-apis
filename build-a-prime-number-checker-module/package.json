@@ -1,0 +1,16 @@
+{
+  "name": "is-prime",
+  "version": "1.0.0",
+  "description": "A simple JavaScript utility for checking whether a number is prime.",
+  "keywords": [
+    "prime",
+    "math",
+    "number",
+    "utility"
+  ],
+  "license": "ISC",
+  "author": "Soumadip Banerjee",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {}
+}
